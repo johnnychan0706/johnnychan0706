@@ -18,6 +18,7 @@ I am Johnny an aspiring Data Analyst from Hong Kong 🇭🇰, currently based in
 
 
 ### 📱 Connect with me
+- 📧 johnnychanws0706@gmail.com
 
 <!--
 **johnnychan0706/johnnychan0706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
