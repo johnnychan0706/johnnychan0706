@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Johnny an aspiring Data Analyst from Hong Kong 🇭🇰, currently based in 🇨🇦
+I am Johnny an aspiring Data Analyst from Hong Kong 🇭🇰, based in 🇨🇦
 
 ### ✍ About Me 
 - 👨‍💻 Accounting and Finance major
