@@ -14,7 +14,7 @@ I am Johnny an aspiring Data Analyst from Hong Kong 🇭🇰, based in 🇨🇦
 
 ### ✍ Updates
 - Course : University of Waterloo - Certificate of Data Science 
-- Projects : ⚓ Titanic (Python: pandas, numpy, matplotlib)
+- Projects : ⚓ <b>Titanic</b> (Python: pandas, numpy, matplotlib), <b>Superstore Analysis</b> (Python: pandas, numpy, matplolib, seaborn)
 
 
 ### 📱 Connect with me
