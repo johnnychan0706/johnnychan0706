@@ -10,7 +10,7 @@ I am Johnny, an aspiring Data Analyst from Hong Kong 🇭🇰, based in 🇨🇦
 ### 🤹‍♀️ Competencies
 - Knowledge: Traditional Financial Markets, Derivatives, Defi, Web3, Blockchain, Consensus mechanisms, Exchanges 
 - Tools: Python, SQL, Tableau, Tradingview, Adobe Premier
-- Skills: Dashboard Desgin, Data Visualisation, Data Analysis, Data Wrangling, Data Cleaning <br><br>
+- Skills: Dashboard Design, Data Visualisation, Data Analysis, Data Wrangling, Data Cleaning <br><br>
 
 ### ✍ Updates
 - Course : University of Waterloo - Certificate of Data Science 
