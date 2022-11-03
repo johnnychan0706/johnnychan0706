@@ -14,7 +14,7 @@ I am Johnny, an aspiring Data Analyst from Hong Kong 🇭🇰, based in 🇨🇦
 
 ### ✍ Updates
 - Course : University of Waterloo - Certificate of Data Science 
-- Projects : ⚓ <b>Titanic</b> (Python: pandas, numpy, matplotlib) *In-Progress, [<b>Superstore Analysis</b>](https://github.com/johnnychan0706/SuperStore_Analysis) (Python: pandas, numpy, matplolib, seaborn), [<b>2015 Flight Delays and Cancellations</b>](https://github.com/johnnychan0706/US-Flight-Delays-and-Cancellations-2015) (Tableau), <b>Danny's Diner</b> (SQL)
+- Projects : ⚓ <b>Titanic</b> (Python: pandas, numpy, matplotlib) *In-Progress, [<b>Superstore Analysis</b>](https://github.com/johnnychan0706/SuperStore_Analysis) (Python: pandas, numpy, matplolib, seaborn), [<b>2015 Flight Delays and Cancellations</b>](https://github.com/johnnychan0706/US-Flight-Delays-and-Cancellations-2015) (Tableau), [<b>Danny's Diner</b>](https://github.com/johnnychan0706/Dannys-Diner) (SQL)
 
 
 ### 📱 Connect with me
